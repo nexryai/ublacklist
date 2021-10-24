@@ -1,2 +1,2 @@
-# ublacklist-programming
+# ublacklist
 プログラミングスクールのサイトによる検索妨害から見を守るublacklist用購読リスト
