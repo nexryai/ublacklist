@@ -8,4 +8,6 @@ ublocklistをインストールし、設定から`https://nexryai.me/ublacklist/
 `https://raw.githubusercontent.com/108EAA0A/ublacklist-programming-school/main/uBlacklist.txt` <br>
 `https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt` <br>
 `https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt` <br>
-`https://raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt`
+`https://raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt` <br>
+`https://raw.githubusercontent.com/yussio/web-blacklist/master/url.txt` <br>
+`https://pc-pier.com/blog/uBlacklist_from_nsystem.txt`
