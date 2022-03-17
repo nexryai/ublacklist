@@ -1,5 +1,5 @@
 # ublacklist
-プログラミングスクールのサイトやアフィカスブログによる検索妨害から精神を守るublacklist用購読リスト
+プログラミングスクールのサイトやアフィカスブログ、陰謀論者のブログによる検索妨害から精神を守るublacklist用購読リスト
 
 ## 使い方
 ublocklistをインストールし、設定から`https://nexryai.me/ublacklist/uBlacklist.txt` を購読に追加して下さい。
